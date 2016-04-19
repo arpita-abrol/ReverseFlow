@@ -1,0 +1,30 @@
+//Arpita Abrol, Jimbelung Barker
+
+//Act 5
+
+Questions:
+
+1. Open Picture.java and look for the method getPixels2D. Is it there?
+
+
+2. Open SimplePicture.java and look for the method getPixels2D. Is it there?
+
+
+3. Does the following code compile?
+	DigitalPicture p = new DigitalPicture();
+
+
+4. Assuming that a no-argument constructor exists for SimplePicture, would the following code compile?
+	DigitalPicture p = new SimplePicture();
+
+
+5. Assuming that a no-argument constructor exists for Picture, does the following code compile?
+	DigitalPicture p = new Picture();
+
+
+6. Assuming that a no-argument constructor exists for Picture, does the following code compile?
+	SimplePicture p = new Picture();
+
+
+7. Assuming that a no-argument constructor exists for SimplePicture, does the following code compile?
+	Picture p = new SimplePicture();
